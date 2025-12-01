@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "抱きしめたい",
+  "base_artist": "The Birthday",
+  "createdAt": "2025-12-01T22:47:55.129601Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/01_抱きしめたい_Sparks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/02_抱きしめたい_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Younha",
+      "has_synced": true,
+      "path": "select/03_抱きしめたい_Younha.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "はっぴいえんど",
+      "has_synced": true,
+      "path": "select/04_抱きしめたい_はっぴいえんど.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Happy End",
+      "has_synced": true,
+      "path": "select/05_抱きしめたい_Happy_End.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/06_抱きしめたい_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Base Ball Bear",
+      "has_synced": true,
+      "path": "select/07_抱きしめたい_Base_Ball_Bear.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/08_抱きしめたい_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/09_抱きしめたい_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dakishimetai 抱きしめたい",
+      "artist": "Happy End",
+      "has_synced": true,
+      "path": "select/10_Dakishimetai_抱きしめたい_Happy_End.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "P.S.抱きしめたい",
+      "artist": "稲垣潤一",
+      "has_synced": true,
+      "path": "select/11_P.S.抱きしめたい_稲垣潤一.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Happy End",
+      "has_synced": true,
+      "path": "select/12_抱きしめたい_Happy_End.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": true,
+      "path": "select/13_抱きしめたい_Mr.Children.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "윤하 (Younha)",
+      "has_synced": true,
+      "path": "select/14_抱きしめたい_윤하_(Younha).lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children 1992-1995",
+      "has_synced": true,
+      "path": "select/15_抱きしめたい_Mr.Children_1992-1995.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_01_抱きしめたい_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "抱・き・し・め・た・い",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_02_抱・き・し・め・た・い_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "抱きしめたいけど",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_03_抱きしめたいけど_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_04_抱きしめたい_Mr.Children.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "抱きしめたい",
+      "artist": "Mr.Children",
+      "has_synced": false,
+      "path": "select/pl_05_抱きしめたい_Mr.Children.txt"
+    }
+  ]
+}
